@@ -1,0 +1,2 @@
+In this folder you can see the rainy section of RaidaR, along with ground truth segmentation masks for a portion of the data.
+- If you click on an image and scroll all the way down the screen, you can see the image
