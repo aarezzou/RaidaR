@@ -1,2 +1,3 @@
+## Rainy Images
 In this folder you can see the rainy section of RaidaR, split into 5 parts, along with ground truth segmentation masks for a portion of the data.
-- If you click on an image and scroll all the way down the screen, you can see the image
+- In each part, there is a separate folder for each image. You can view the image by clicking on the folder and then clicking on the image.
